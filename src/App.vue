@@ -12,6 +12,9 @@
           <li class="nav-item">
             <a class="nav-link" href="#"><router-link to="/about">About</router-link></a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#"><router-link to="/SamsungHealth">SamsungHealth</router-link></a>
+          </li>
         </ul>
       </nav>
     </div>
